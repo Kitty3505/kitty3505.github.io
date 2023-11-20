@@ -1,12 +1,12 @@
 #profilepicture {
-   width: 100px;
+   width: 30px;
    height: auto; 
 }
 
 .curved-rectangle {
    width: 300px;
    height: 150px;
-   background-color: #3d3d3d;
+   background-color: #c2c2c2;
    border-radius: 20px;
  }
  
