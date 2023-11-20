@@ -8,13 +8,13 @@ div.outer{
    border-radius: 20px;
    overflow: hidden;
    background-color: #333;
-   color: #8AF;
+   color: rgb(0, 0, 0);
    padding: 0px 20px;
 }
 
 div.outer .top{
    margin: -20px -20px;
    padding: 20px 20px;
-   background-color: #8AF;
+   background-color: rgb(0, 0, 0);
    color: #000;
 }
