@@ -2,8 +2,19 @@
    width: 100px;
    height: auto; 
 }
-#blah {
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
+
+.curved-rectangle {
+   width: 300px;
+   height: 150px;
+   background-color: #f0f0f0;
    border-radius: 20px;
-}
+ }
+ 
+ .curved-rectangle p {
+   margin: 20px;
+ }
+ 
+ .curved-rectangle h1 {
+   margin: 10px 0 0 20px;
+   font-size: 24px;
+ }
