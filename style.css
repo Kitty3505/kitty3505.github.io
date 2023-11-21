@@ -8,13 +8,8 @@
    height: 150px;
    background-color: #c2c2c2;
    border-radius: 20px;
+   border-color:black;
  }
- .curved-rectangle {
-  width: 400px;
-  height: 250px;
-  background-color: #000000;
-  border-radius: 20px;
-}
  
  .curved-rectangle p {
    margin: 20px;
