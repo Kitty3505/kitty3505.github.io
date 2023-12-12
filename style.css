@@ -5,9 +5,9 @@ div {
   width: 320px;
   height: 130px;
   padding: 5px;
-  border: 10px solid rgb(50, 50, 50);
+  border: 10px solid gray;
   margin: 0;
-  color: solid rgb(150, 150, 150);
+  background-color: solid rgb(150, 150, 150);
   border-radius: 10px;
 }
 
