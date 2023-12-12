@@ -1,25 +1,14 @@
-#profilepicture {
-   width: 30px;
-   height: auto; 
+body {
+  margin: 20px;
 }
-
-.curved-rectangle {
-   width: 300px;
-   height: 150px;
-   background-color: #c2c2c2;
-   border-radius: 20px;
-   border-color:black;
- }
- 
- .curved-rectangle p {
-   margin: 20px;
- }
- 
- .curved-rectangle h1 {
-   margin: 10px 0 0 20px;
-   font-size: 24px;
- }
-
- .curved-rectangle img {
-  margin: 10px 10px 10px 20px;
- }
+div {
+  width: 320px;
+  height: 130px;
+  padding: 5px;
+  border: 10px solid gray;
+  margin: 0;
+  fill: solid lightgray;
+}
+h2 {
+ margin: 0px; 
+}
