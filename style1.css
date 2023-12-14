@@ -1,5 +1,6 @@
 body { 
 background-color: gray;
+border-width: 20px solid white;
 }
 
 div {
@@ -26,3 +27,4 @@ label {
 button {
   size: 100px;
 }
+
