@@ -1,6 +1,6 @@
 body { 
 background-color: gray;
-border-width: 20px solid white;
+border: 20px solid white;
 }
 
 div {
@@ -22,9 +22,11 @@ p {
  text-align: center;
 }
 label {
-  size: 100px;
+  width: 100px;
+  height: 100px;
 }
 button {
-  size: 100px;
+  width: 100px;
+  height: 100px;
 }
 
