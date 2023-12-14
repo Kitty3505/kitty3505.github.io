@@ -1,5 +1,5 @@
 body { 
-background-color: gray;
+background-color: rgb(61, 177, 255);
 }
 
 div {
@@ -24,6 +24,7 @@ p {
 
 
 #topbar {
+  color:blue;
   width: automatic;
   height: 75px;
 }
