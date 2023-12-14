@@ -2,7 +2,7 @@ body {
 background-color: rgb(61, 177, 255);
 }
 
-div {
+#blog-log {
   width: automatic;
   height: automatic;
   padding: 10px;
