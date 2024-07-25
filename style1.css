@@ -1,5 +1,5 @@
 body { 
-background-color: rgb(61, 177, 255);
+background-color: rgb(108, 226, 255);
 }
 
 #blog-log {
@@ -27,4 +27,8 @@ p {
   color:blue;
   width: automatic;
   height: 75px;
+}
+
+#BKGR1 {
+  background-color: white;
 }
