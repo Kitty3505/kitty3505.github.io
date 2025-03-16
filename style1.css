@@ -1,14 +1,15 @@
-#main-body { 
+.main-body { 
 background-color: rgb(108, 226, 255);
 }
 
-#blog-log {
+.blog-log {
   width: automatic;
   height: automatic;
   padding: 10px;
   border: 5px solid black;
   margin: 0;
   background-color: rgb(163, 163, 163);
+  border-radius: 5px;
 }
 
 h1 {
@@ -23,12 +24,12 @@ p {
 
 
 
-#topbar {
+.topbar {
   color:blue;
   width: automatic;
   height: 75px;
 }
 
-#BKGR1 {
+.BKGR1 {
   background-color: white;
 }
